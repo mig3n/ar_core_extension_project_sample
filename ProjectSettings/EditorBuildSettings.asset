@@ -6,10 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/PersistentCloudAnchorsArf4.unity
+    guid: a1cbde3cab63248f4bbf8d8ad6586754
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 39145dbd485a7cc47879f92c042bdeb2, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c057d297a15ce7645baafac9f387cd80, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b18bec9c3a82bd241b7ad85cb36695e5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5829e3feab09a4547a9d7ed346bd9789, type: 2}
   m_UseUCBPForAssetBundles: 0
